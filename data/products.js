@@ -642,6 +642,36 @@ const products = [
     ]
   },
   {
+    id: "bc2847e9-5323-403f-b7cf-57fde044a956",
+    image: "images/products/backpack.jpg",
+    name: "AmazonBasics Ultralight Portable Packable Day Pack",
+    rating: {
+      stars: 4.5,
+      count: 400
+    },
+    priceCents: 5000,
+    keywords: [
+      'bag',
+      'backpack',
+      'laptop bag'
+    ]
+  },
+  {
+    id: 'e93b589c-7a3d-4a92-bfb8-df4b0365f8e1',
+    image: 'images/products/umbrella.jpg',
+    name: 'Umbrella Basic High Quality',
+    rating: {
+      stars: 4.5,
+      count: 155
+    },
+    priceCents: 200,
+    keywords: [
+      'umbrella',
+      'rain',
+      'summer'
+    ]
+  },
+  {
     id: "bc2847e9-5323-403f-b7cf-57fde044a955",
     image: "images/products/men-cozy-fleece-zip-up-hoodie-red.jpg",
     name: "Men's Full-Zip Hooded Fleece Sweatshirt",
